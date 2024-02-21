@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/OpeNTF/tutorial/umap24/static/css/main.28384bcd.css",
-    "main.js": "/OpeNTF/tutorial/umap24/static/js/main.baa20b46.js",
-    "static/js/787.85b43d0b.chunk.js": "/OpeNTF/tutorial/umap24/static/js/787.85b43d0b.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/OpeNTF/tutorial/umap24/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/OpeNTF/tutorial/umap24/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
-    "index.html": "/OpeNTF/tutorial/umap24/index.html",
-    "main.28384bcd.css.map": "/OpeNTF/tutorial/umap24/static/css/main.28384bcd.css.map",
-    "main.baa20b46.js.map": "/OpeNTF/tutorial/umap24/static/js/main.baa20b46.js.map",
-    "787.85b43d0b.chunk.js.map": "/OpeNTF/tutorial/umap24/static/js/787.85b43d0b.chunk.js.map"
+    "main.css": "/OpeNTF/static/css/main.b49ce8ce.css",
+    "main.js": "/OpeNTF/static/js/main.1719e69a.js",
+    "static/js/787.85b43d0b.chunk.js": "/OpeNTF/static/js/787.85b43d0b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/OpeNTF/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/OpeNTF/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/OpeNTF/index.html",
+    "main.b49ce8ce.css.map": "/OpeNTF/static/css/main.b49ce8ce.css.map",
+    "main.1719e69a.js.map": "/OpeNTF/static/js/main.1719e69a.js.map",
+    "787.85b43d0b.chunk.js.map": "/OpeNTF/static/js/787.85b43d0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28384bcd.css",
-    "static/js/main.baa20b46.js"
+    "static/css/main.b49ce8ce.css",
+    "static/js/main.1719e69a.js"
   ]
 }
