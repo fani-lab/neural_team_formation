@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/OpeNTF/tutorial/umap24/static/css/main.28384bcd.css",
-    "main.js": "/OpeNTF/tutorial/umap24/static/js/main.ff7181a0.js",
+    "main.js": "/OpeNTF/tutorial/umap24/static/js/main.d7747fd1.js",
     "static/js/787.85b43d0b.chunk.js": "/OpeNTF/tutorial/umap24/static/js/787.85b43d0b.chunk.js",
     "static/media/bootstrap-icons.woff?": "/OpeNTF/tutorial/umap24/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/OpeNTF/tutorial/umap24/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/OpeNTF/tutorial/umap24/index.html",
     "main.28384bcd.css.map": "/OpeNTF/tutorial/umap24/static/css/main.28384bcd.css.map",
-    "main.ff7181a0.js.map": "/OpeNTF/tutorial/umap24/static/js/main.ff7181a0.js.map",
+    "main.d7747fd1.js.map": "/OpeNTF/tutorial/umap24/static/js/main.d7747fd1.js.map",
     "787.85b43d0b.chunk.js.map": "/OpeNTF/tutorial/umap24/static/js/787.85b43d0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28384bcd.css",
-    "static/js/main.ff7181a0.js"
+    "static/js/main.d7747fd1.js"
   ]
 }
